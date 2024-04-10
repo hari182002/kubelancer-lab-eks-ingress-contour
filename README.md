@@ -1,1 +1,1 @@
-# kubelancer-lab-eks-ingress-contour
+Demo: Contour Ingress on eks cluster with sample workload
